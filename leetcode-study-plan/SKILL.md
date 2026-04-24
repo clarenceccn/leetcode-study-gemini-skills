@@ -20,7 +20,7 @@ Use this skill when the user provides a LeetCode problem and solution to be stor
     *   **Essence**: Summarize the problem's core in as few words as possible. Avoid paragraphs; make it scan-friendly.
     *   **High-level Summary**: Use bullet points for the main solution and 1-2 alternative approaches. Include **verified** Big-O time and space complexities for each.
     *   **Actual Code**: Include the provided solution first, then provide clean, idiomatic code for the alternative approaches discussed in the summary.
-5.  **Save**: Write the output to `/Users/clarencenguyen/projects/study/leetcode-guide/<problem-type>/<number>.<name>.md`.
+5.  **Save**: Write the output to `/Users/<login>/study/leetcode-guide/<problem-type>/<number>.<name>.md`.
     *   The file name should be `<number>.<camelCaseName>.md` (e.g., `121.bestTimeToBuyAndSellStock.md`).
 
 ## Coding Standards
